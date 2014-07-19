@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="android-support-v4">
+    <archive path="/home/eduardo/Downloads/Android/Sherlock/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock/libs/android-support-v4.jar" />
+  </library>
+</eclipse-userlibraries>
+

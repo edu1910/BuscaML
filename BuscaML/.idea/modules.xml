@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuscaML.iml" filepath="$PROJECT_DIR$/BuscaML.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Android/Sherlock/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock/actionbarsherlock.iml" filepath="$USER_HOME$/Downloads/Android/Sherlock/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock/actionbarsherlock.iml" />
+    </modules>
+  </component>
+</project>
+
